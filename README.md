@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Nishant Ranjan</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" height=40% width =40% src="https://th.bing.com/th/id/OIG.ZrnHBWMOMmTPh5Z2zIcL?w=1024&h=1024&rs=1&pid=ImgDetMain">
